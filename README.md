@@ -124,5 +124,5 @@ idf.py monitor
 
 ## 👨‍💻 Author
 
-Molanguru Sonu Adithya  
-Embedded Systems & Edge AI Engineer  
+Anishma G  
+  
