@@ -1,0 +1,61 @@
+# ===============================
+# Python & Virtual Environments
+# ===============================
+.venv*/
+__pycache__/
+*.npy
+*.keras
+*.lock
+
+# ===============================
+# Build Artifacts
+# ===============================
+build/
+managed_components/
+sdkconfig*
+sdkconfig.old
+
+# ===============================
+# Large Academic Outputs
+# ===============================
+*.pdf
+*.docx
+*.pptx
+
+# ===============================
+# Datasets
+# ===============================
+seizeit2_env/
+tf_env/
+seizeit2_data/
+ds005873/
+
+# ===============================
+# IDE / Editor Files
+# ===============================
+.vscode/
+.devcontainer/
+.clangd
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+
+# ===============================
+# Auto-generated Scripts (Optional)
+# ===============================
+generate_*_pdf.py
+generate_*_docx.py
+generate_*_ppt_*.py
+generate_*.py
+
+# ===============================
+# Backup Models
+# ===============================
+backup_old_model/
+
+# ===============================
+# Misc
+# ===============================
+project_file_list.csv
